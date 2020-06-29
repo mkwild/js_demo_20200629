@@ -1,0 +1,30 @@
+* {
+    margin: 5px;
+}
+
+.background {
+    border: 2px solid blue;
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 4em;
+}
+
+button {
+    height: 2em;
+    width: 2em;
+    font-size: .8em;
+}
+
+.outputBox {
+    border: 1px solid black;
+    width: 150px;
+    height: 1.2em;
+    display: flex;
+    justify-content: center;
+}
